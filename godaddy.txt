@@ -1,4 +1,7 @@
-creating a simple site on GCP
-create domain on godaddy
-create new project on GCP (most components as default)
-install webserver on newly created instance
+creating a simple site on GCP.
+create domain on godaddy.
+create new project on GCP (most components as default).
+install webserver on newly created instance (apache2 or nginx).
+check ip address id index can be viewed. 
+map ip address to godaddy domain (dns site zone)
+create more robust website.
