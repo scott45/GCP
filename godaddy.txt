@@ -5,6 +5,7 @@ create domain on godaddy.
 create new project on GCP (most components as default).
 
 ssh to the instance
+
 install webserver on newly created instance (apache2 or nginx).
 check ip address id index can be viewed. 
 map ip address to godaddy domain (dns site zone)
