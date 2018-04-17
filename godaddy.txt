@@ -1,4 +1,5 @@
 creating a simple site on GCP.
+
 create domain on godaddy.
 create new project on GCP (most components as default).
 ssh to the instance
