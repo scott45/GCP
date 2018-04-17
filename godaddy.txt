@@ -9,5 +9,6 @@ ssh to the instance
 install webserver on newly created instance (apache2 or nginx).
 
 check ip address id index can be viewed. 
+
 map ip address to godaddy domain (dns site zone)
 create more robust website.
